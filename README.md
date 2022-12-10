@@ -21,7 +21,7 @@
     <br>
     <p float="left">
     <h3>Languages</h3>
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="30" height="30"></a><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30" height="30"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30" height="30"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" height="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="30" height="30"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30" height="30"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30" height="30"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" height="30">
     </p>
     <br>
     <br>
