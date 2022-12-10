@@ -12,7 +12,7 @@
 </a>
 </div>
 
-    <br>
+  <br>
     <br>
     <h3>Operating systems</h3>
     <img src="https://img.icons8.com/fluency/240/windows-11.png" height="30" width="30">
