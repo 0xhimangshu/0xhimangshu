@@ -16,7 +16,7 @@
     <br>
     <h3>Operating systems</h3>
     <p float="left">
-    <img src="https://img.icons8.com/fluency/240/windows-11.png" height="30" width="30"><img src="https://cdn-icons-png.flaticon.com/512/174/174836.png" width="30" height="30"><img src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" width="30" height="30"><img src="https://camo.githubusercontent.com/8c73ac68e6db84a5c58eef328946ba571a92829b3baaa155b7ca5b3521388cc9/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67" width="30" height="30">
+    <img src="https://img.icons8.com/fluency/240/windows-11.png" height="30" width="30"><img src="https://cdn-icons-png.flaticon.com/512/174/174836.png" width="30" height="30"><img src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" width="30" height="30"><img src="https://camo.githubusercontent.com/8c73ac68e6db84a5c58eef328946ba571a92829b3baaa155b7ca5b3521388cc9/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67" width="30" height="30"></p>
     <br>
     <br>
     <p float="left">
