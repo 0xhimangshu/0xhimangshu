@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xhimangshu&show_icons=true&hide_border=true&theme=gotham" alt="0xhimangshu" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhimangshu&hide=css,scss&theme=gotham&hide_border=true"></p>
+![](https://komarev.com/ghpvc/?username=0xhimangshu&color=green)
