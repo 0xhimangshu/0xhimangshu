@@ -38,17 +38,21 @@
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=0xhimangshu" alt="Profile Views">
 </p>
-<h4 align="center">Connect with me</h4>
+
+<!-- <h4 align="center">Connect with me</h4> -->
 
 <p align="center">
   <img width="300px" height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=0xhimangshu&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats">
   <img width="200px" height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhimangshu&layout=compact&theme=dark&langs_count=20" alt="Top Languages">
   <img width="200px" height="220px" align="center" src="https://leetcard.jacoblin.cool/0xhimangshu?ext=heatmap" alt="leetcode stats">
 </p>
-<h
-<!-- <p align="center">
+  
+<!-- 
+  <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xhimangshu&theme=github-compact&hide_border=true" alt="Activity Graph">
-</p> -->
+</p> 
+  -->
+  
 <!--
 **0xhimangshu/0xhimangshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
