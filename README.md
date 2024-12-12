@@ -28,9 +28,9 @@
   <a href="https://github.com/0xhimangshu/saavn.py">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xhimangshu&repo=saavn.py&theme=tokyonight&bg_color=1A1B27&border_color=70A5FD"/>
   </a>
-  <a href="https://github.com/0xhimangshu/Boult">
+<!--   <a href="https://github.com/0xhimangshu/Boult">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xhimangshu&repo=Boult&theme=tokyonight&bg_color=1A1B27&border_color=70A5FD"/>
-  </a>
+  </a> -->
   <a href="https://github.com/0xhimangshu/quiz-cli">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xhimangshu&repo=quiz-cli&theme=tokyonight&bg_color=1A1B27&border_color=70A5FD"/>
   </a>
