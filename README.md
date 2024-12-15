@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/himangshu-saikia" target="_blank">
+  <a href="https://in.linkedin.com/in/himangshu-saikia-337ab32b4" target="_blank">
     <img src="https://img.shields.io/badge/-Himangshu_Saikia-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/0xhimangshu" target="_blank">
