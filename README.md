@@ -53,7 +53,7 @@
   
   <div style="text-align: center; margin: 10px;">
     <h3>Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
   </div>
   
   <div style="text-align: center; margin: 10px;">
