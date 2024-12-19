@@ -43,7 +43,7 @@
 <div align="center" style="background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; margin: 20px 0; display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="text-align: center; margin: 10px;">
     <h3>Core Languages</h3>
-    <img src="https://skillicons.dev/icons?i=python,typescript,cpp,c,rust,csharp" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,cpp,c" />
   </div>
   
   <div style="text-align: center; margin: 10px;">
@@ -77,6 +77,7 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhimangshu&layout=compact">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xhimangshu&show_icons=true&count_private=true&hide_border=true&title_color=2E9EFF&icon_color=2E9EFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xhimangshu&hide_border=true&theme=transparent&background=0D1117&stroke=2E9EFF&ring=2E9EFF&fire=2E9EFF&currStreakNum=FFFFFF&sideNums=2E9EFF&currStreakLabel=2E9EFF&sideLabels=2E9EFF&dates=FFFFFF"/>
 </div>
