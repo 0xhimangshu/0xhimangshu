@@ -58,7 +58,7 @@
   
   <div style="text-align: center; margin: 10px;">
     <h3>Databases</h3>
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,supabase" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,supabase" />
   </div>
   
   <div style="text-align: center; margin: 10px;">
