@@ -43,7 +43,7 @@
 <div align="center" style="background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; margin: 20px 0; display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="text-align: center; margin: 10px;">
     <h3>Core Languages</h3>
-    <img src="https://skillicons.dev/icons?i=python,typescript,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,cpp" />
   </div>
   
   <div style="text-align: center; margin: 10px;">
